@@ -90,3 +90,5 @@ Milk supply chain is highly real-time and complicated to manage. Catering to dif
 
 ## License
 This project and the dataset is made available under [CC BY-NC-SA 4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
+
+<!-- auto-update 2024-07-17 12:29:35 -->
